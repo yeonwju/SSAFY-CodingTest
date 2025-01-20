@@ -9,7 +9,7 @@
 ## 🛠️ **참여 방법**
 ```
 
-1. 초대를 받는다.
+1. 협력자 초대를 받는다.
 
 2. 로컬 저장소로 클론
   git clone https://github.com/munjh61/SSAFY-CodingTest.git
@@ -17,10 +17,16 @@
 3. 각자 branch를 만들기
   git checkout -b 브랜치명
 
-4. 원격 저장소로 푸시
+4. 파일 스테이징
+  git add .
+
+5. 커밋하기
+  git commit -m'메세지'
+
+6. 원격 저장소로 푸시
   git push origin 브랜치명
 
-5. pull request를 꼭 한다.
+7. pull request를 꼭 한다.
 
 ```
 ~1. 이 저장소를 fork한다.~ 
