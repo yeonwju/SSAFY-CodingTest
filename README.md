@@ -1,6 +1,6 @@
 ## 🐣 **멤버**
 
-|김윤정|김현재|![문준호](https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp)|주연우|
+|김윤정|김현재|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|주연우|
 |---|---|---|---|
 |김윤정|김현재|문준호|주연우|
 ## 📌 **규칙**
