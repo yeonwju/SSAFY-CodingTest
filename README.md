@@ -25,10 +25,14 @@
 5. 커밋하기
   git commit -m'메세지'
 
-6. 원격 저장소로 푸시
+6. 업데이트가 되어있는지 확인하기
+  git pull
+  :wq
+
+7. 원격 저장소로 푸시
   git push origin 브랜치명
 
-7. pull request를 꼭 한다.
+8. pull request를 꼭 한다.
 
 ```
 **pull request가 승인되어야 잔디가 표시되고, pr 후 잔디는 커밋한 날짜를 기준으로 심어집니다.**
