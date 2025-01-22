@@ -12,7 +12,7 @@
 
 1. 이 저장소를 개인 원격 저장소로 fork한다.
 2. fork한 git을 로컬 저장소로 clone한다.
-3. 로컬 저장소에 원본 저장소(Upstream)를 등록
+3. 로컬 저장소에 원본 저장소(Upstream)를 등록.
 ```
  $ git remote add upstream [원본 저장소 주소]
 ```
