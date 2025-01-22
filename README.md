@@ -23,8 +23,10 @@
  $ git push origin branch_name
 ```
 5. 작업 전에 원본 저장소의 최신 내용을 확인한다
- ```$ git fetch upstream```
-6. 원본 저장소의 최신 내용을 로컬 main 브랜치에 병합한다
+```
+$ git fetch upstream
+```
+7. 원본 저장소의 최신 내용을 로컬 main 브랜치에 병합한다
 ```
  $ git checkout main
  $ git merge upstream/main
