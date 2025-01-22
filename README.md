@@ -1,6 +1,6 @@
 ## 🐣 **멤버**
 
-|<img src="https://yyoding.github.io/assets/img/free-icon-avatar-1752813.png" alt="김윤정" width="50" height="50">|<img src="https://97now.github.io/assets/img/%EB%AF%B8%EB%9E%982.jpg" alt="김현재" width="50" height="50">|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|주연우|
+|<img src="" alt="김윤정" width="50" height="50">|<img src="" alt="김현재" width="50" height="50">|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|주연우|
 |---|---|---|---|
 |김윤정|김현재|문준호|주연우|
 ## 📌 **규칙**
