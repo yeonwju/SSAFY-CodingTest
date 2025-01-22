@@ -32,7 +32,7 @@
 7. 원격 저장소로 푸시
   git push origin 브랜치명
 
-8. pull request를 꼭 한다.
+8. pull request를 하게 되면 꼭 연락주세요.
 
 ```
 **pull request가 승인되어야 잔디가 표시되고, pr 후 잔디는 커밋한 날짜를 기준으로 심어집니다.**
