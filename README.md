@@ -9,23 +9,26 @@
 ## 🛠️ **참여 방법**
 
 [상세내용](https://velog.io/@jisubin12/Github-%EC%99%B8%EB%B6%80%EC%A0%80%EC%9E%A5%EC%86%8C-fork-pull-request-%EB%8F%99%EA%B8%B0%ED%99%94-%ED%95%98%EA%B8%B0)
-```
+
 1. 이 저장소를 개인 원격 저장소로 fork한다.
 2. fork한 git을 로컬 저장소로 clone한다.
-3. 로컬 저장소에 원본저장소(Upstream)를 등록
- $ git remote add upstream [원격 저장소 주소]
-4. 로컬 저장소에서 작업하고 fork한 원격 저장소에 commit & push 한다.
-
--> 여기서 부턴 가끔씩 다같이 할 거.
-5. 원본 저장소에 수정 내역이 있는지 확인한다
+3. 로컬 저장소에 원본 저장소(Upstream)를 등록:
+ $ git remote add upstream [원본 저장소 주소]
+4. 로컬 저장소에서 작업하고 fork한 원격 저장소에 commit & push한다.
+ $ git add .
+ $ git commit -m "커밋 메시지"
+ $ git push origin branch_name
+5. 작업 전에 원본 저장소의 최신 내용을 확인한다:
  $ git fetch upstream
-6. 외부 원본 저장소의 최신 내용을 가져온다
+6. 원본 저장소의 최신 내용을 로컬 main 브랜치에 병합한다:
  $ git checkout main
  $ git merge upstream/main
-7. 개인 브랜치로 이동하고 개인 브랜치도 원격 내용으로 업데이트한다.
+(충돌이 발생하면 충돌을 해결하고 `git add`, `git commit`으로 처리)
+7. 개인 브랜치로 이동하고 최신 내용을 반영한다:
  $ git checkout branch_name
- $ git push origin main
-```
+ $ git rebase main  # 개인 브랜치에 main 최신 내용 반영
+ $ git push origin branch_name  # 변경 내용 원격 저장소에 반영
+8. 작업을 완료한 후, 원본 저장소로 PR(Pull Request)을 생성한다.
 
 **pull request가 승인되어야 잔디가 표시되고, pr 후 잔디는 커밋한 날짜를 기준으로 심어집니다.**
 
