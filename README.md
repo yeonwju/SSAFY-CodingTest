@@ -26,7 +26,7 @@
   git commit -m'메세지'
 
 6. 원격 저장소로 푸시
-  git push origin <span style="color : red">브랜치명</span>
+  git push origin 브랜치명
 
 7. pull request를 꼭 한다.
 
