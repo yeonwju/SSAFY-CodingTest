@@ -1,9 +1,12 @@
+package week1;
 
 import java.util.Scanner;
 
-public class Baejoon2810 {
+public class Baekjoon2810 {
 	public static void main(String[] args) {
-
+		
+		//컵홀더 문제
+		
 		Scanner sc = new Scanner(System.in);
 
 		// 좌석의 수를 입력 받는다.
