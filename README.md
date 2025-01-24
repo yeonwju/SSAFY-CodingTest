@@ -1,6 +1,6 @@
 ## 🐣 **멤버**
 
-|<img src="" alt="김윤정" width="50" height="50">|<img src="" alt="김현재" width="50" height="50">|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|주연우|
+|<img src="https://i.namu.wiki/i/1fJgTa4Qb9M3W6oXBw0YJcCSqrgUDEdNc5_R5XhI6uFt-PwQpaNuj4km75sbxsWfEGY3heNBSHT0fFJ2Af2MPbhAzsC4GjR8Oh62-4Cmwujs0zsyo5rvlscbtNAPVOny6JOz6Fl5LgB-haO4e2k4UQ.webp" alt="김윤정" width="50" height="50">|<img src="https://i.namu.wiki/i/O9kShYKXbkq4USe-Bob5wm_wtC2MdkPEK3y24Tu6M9nNVsynrIFHjckMQuL2vgs4wYIUjZwYETlqR4HQOdW0CYFXN7t1ngHlh8WiSVqmKBv_vb4WxBd4-D4Lb50U1qeve-q0lZMsgg1e1cCZM0EPkw.webp" alt="김현재" width="50" height="50">|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://i.namu.wiki/i/I77jbxd2_8Sczv5L5fNdOx9sduPWGtSzGLJrgU52iSHMgGFMU7V_96CYmBsZ9psk5yWl12d6c0LNOOWK7h83Ix2UW9gn1PAEL3CY6nKP4DryZZT9i6kZRHonnGq8XuMUKAThp8XfY1XGWC-_kL-wuA.webp" alt="주연우" width="50" height="50">|
 |---|---|---|---|
 |김윤정|김현재|문준호|주연우|
 ## 📌 **규칙**
