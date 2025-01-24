@@ -93,7 +93,7 @@ $ git fetch upstream
 ```
 
 ## 🚀역대 문제 기록
-1. [[250123][백준1158][S4]요세푸스](https://www.acmicpc.net/problem/1158)
+1. [[250123][백준1158][S4]요세푸스](acmicpc.net/problem/1158)
 2. [[250123][백준8958][B2]OX퀴즈](https://www.acmicpc.net/problem/8958)
 3. [[250123][백준2810][B1]컵홀더](https://www.acmicpc.net/problem/2810)
 4. [[250123][백준13300][B2]방배정](https://www.acmicpc.net/problem/13300)
