@@ -103,6 +103,6 @@ git에서 다운받았을 때 project가 안보인다면
 4. [[250123][백준13300][B2]방배정](https://www.acmicpc.net/problem/13300)
 5. [[250206][백준2292][B2]벌집](https://www.acmicpc.net/problem/2292)
 6. [[250206][백준2477][S2]참외밭](https://www.acmicpc.net/problem/2477)
-7. [[250206][백준1592][B2]영식이와친구들](https://www.acmicpc.net/problem/1592)
+7. [[250211][백준1592][B2]영식이와친구들](https://www.acmicpc.net/problem/1592)
 8. [[250211][백준2839][S4]설탕배달](https://www.acmicpc.net/problem/2839)
 
