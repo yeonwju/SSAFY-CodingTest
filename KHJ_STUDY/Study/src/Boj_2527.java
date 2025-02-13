@@ -8,8 +8,8 @@ public class Boj_2527 {
 		 * 
 		 * 1,2 4,7 / 3,5 6,8
 		 */
-		int[] first = {11,120,120,230};
-		int[] second = {50,40,60,440};
+		int[] first = {35,56,67,90};
+		int[] second = {67,80,500,600};
 		// 점인 경우
 		if(first[2] == second[0] && first[3] == second[1] ||
 		   second[2] == first[0] && second[3] == first[1]) {
