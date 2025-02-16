@@ -97,13 +97,14 @@ git에서 다운받았을 때 project가 안보인다면
 ```
 
 ## 🚀역대 문제 기록
-1. [[250123][백준1158][S4]요세푸스](https://www.acmicpc.net/problem/1158)  
-2. [[250123][백준8958][B2]OX퀴즈](https://www.acmicpc.net/problem/8958)  
-3. [[250123][백준2810][B1]컵홀더](https://www.acmicpc.net/problem/2810)  
-4. [[250123][백준13300][B2]방배정](https://www.acmicpc.net/problem/13300)  
-5. [[250206][백준2292][B2]벌집](https://www.acmicpc.net/problem/2292)  
-6. [[250206][백준2477][S2]참외밭](https://www.acmicpc.net/problem/2477)  
-7. [[250211][백준1592][B2]영식이와친구들](https://www.acmicpc.net/problem/1592)  
-8. [[250211][백준2839][S4]설탕배달](https://www.acmicpc.net/problem/2839)  
-9. [[250212][백준8320][B2]직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
-
+1. [[250123][백준_1158][S4]요세푸스](https://www.acmicpc.net/problem/1158)  
+2. [[250123][백준_8958][B2]OX퀴즈](https://www.acmicpc.net/problem/8958)  
+3. [[250123][백준_2810][B1]컵홀더](https://www.acmicpc.net/problem/2810)  
+4. [[250123][백준_13300][B2]방배정](https://www.acmicpc.net/problem/13300)  
+5. [[250206][백준_2292][B2]벌집](https://www.acmicpc.net/problem/2292)  
+6. [[250206][백준_2477][S2]참외밭](https://www.acmicpc.net/problem/2477)  
+7. [[250211][백준_1592][B2]영식이와친구들](https://www.acmicpc.net/problem/1592)  
+8. [[250211][백준_2839][S4]설탕배달](https://www.acmicpc.net/problem/2839)  
+9. [[250212][백준_8320][B2]직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
+10. [[250218][SWEA_1961][D2]숫자배열회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+11. [[250216][SWEA_1859][D3]백만장자프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
