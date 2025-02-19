@@ -1,6 +1,6 @@
 ## 🐣 **멤버**
 
-|<img src="https://i.namu.wiki/i/1fJgTa4Qb9M3W6oXBw0YJcCSqrgUDEdNc5_R5XhI6uFt-PwQpaNuj4km75sbxsWfEGY3heNBSHT0fFJ2Af2MPbhAzsC4GjR8Oh62-4Cmwujs0zsyo5rvlscbtNAPVOny6JOz6Fl5LgB-haO4e2k4UQ.webp" alt="김윤정" width="50" height="50">|<img src="https://i.namu.wiki/i/O9kShYKXbkq4USe-Bob5wm_wtC2MdkPEK3y24Tu6M9nNVsynrIFHjckMQuL2vgs4wYIUjZwYETlqR4HQOdW0CYFXN7t1ngHlh8WiSVqmKBv_vb4WxBd4-D4Lb50U1qeve-q0lZMsgg1e1cCZM0EPkw.webp" alt="김현재" width="50" height="50">|<img src="https://i.namu.wiki/i/i6ZpdaKiiEf4qzrR_m9NjvBriuvWtFktDjDX-wry76CYBSssaiOpsZRTVXU20K0kDFnnoBqR9SiVkYh_akXYmQ.webp" alt="문준호" width="50" height="50">|<img src="https://i.namu.wiki/i/I77jbxd2_8Sczv5L5fNdOx9sduPWGtSzGLJrgU52iSHMgGFMU7V_96CYmBsZ9psk5yWl12d6c0LNOOWK7h83Ix2UW9gn1PAEL3CY6nKP4DryZZT9i6kZRHonnGq8XuMUKAThp8XfY1XGWC-_kL-wuA.webp" alt="주연우" width="50" height="50">|
+|<img src="asset/squrtle.webp" alt="김윤정" width="50" height="50">|<img src="asset/meowth.webp" alt="김현재" width="50" height="50">|<img src="asset/psyduck.webp" alt="문준호" width="50" height="50">|<img src="asset/bu.webp" alt="주연우" width="50" height="50">|
 |---|---|---|---|
 |김윤정|김현재|문준호|주연우|
 ## 📌 **규칙**
@@ -108,3 +108,5 @@ git에서 다운받았을 때 project가 안보인다면
 9. [[250212][백준_8320][B2]직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
 10. [[250218][SWEA_1961][D2]숫자배열회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 11. [[250216][SWEA_1859][D3]백만장자프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+12. [[250220][백준_14696][B1]딱지놀이](https://www.acmicpc.net/problem/14696)
+13. [[250220][백준_9093][B1]단어뒤집기](https://www.acmicpc.net/problem/9093)
