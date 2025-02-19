@@ -108,3 +108,5 @@ git에서 다운받았을 때 project가 안보인다면
 9. [[250212][백준_8320][B2]직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
 10. [[250218][SWEA_1961][D2]숫자배열회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 11. [[250216][SWEA_1859][D3]백만장자프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+12. [[250220][백준_14696][B1]딱지놀이](https://www.acmicpc.net/problem/14696)
+13. [[250220][백준_9093][B1]단어뒤집기](https://www.acmicpc.net/problem/9093)
