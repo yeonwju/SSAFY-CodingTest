@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class Solution {
 
 	public static void main(String[] args) throws IOException {
 
@@ -34,7 +34,7 @@ public class Main {
 				for (int j = 0; j < N; j++) {
 					if (table[i][j] == 1)
 						sizeV++;
-					if (table[i][j] == 0 || (j + 1 < N && table[i][j+1] == 0)) {
+					if (table[i][j] == 0 || (j + 1 == N)) {
 						if (sizeV == M) {
 							cnt++;
 						}
@@ -42,7 +42,7 @@ public class Main {
 					}
 					if (table[j][i] == 1)
 						sizeH++;
-					if (table[j][i] == 0 || (j + 1 < N && table[j+1][i] == 0)) {
+					if (table[j][i] == 0 || (j + 1 == N)) {
 						if (sizeH == M) {
 							cnt++;
 						}
