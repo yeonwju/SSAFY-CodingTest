@@ -24,21 +24,24 @@ public class test {
 			int x = 0;
 			for(int i=0; i<N; i++) {//행 고정
 				for(int j=0; j<N; j++) {
-					if(numbers[i][j] == 1) {
+					if(numbers[i][j] == 1) {//1이면
 						stack.push(1);
-					}else {
+					}else {//0이면
 						if(stack.size() == K) {
 							x++;
+							stack.clear();
+						}else {
+							stack.clear();							
 						}
-					stack.clear();
 					}
+					
 				}
 				if(stack.size() == K) {
 					x++;
 				}
+				stack.clear();
 			}
 			
-			System.out.println(x);
 			
 			//세로줄
 			int y = 0;
@@ -47,16 +50,20 @@ public class test {
 					if(numbers[i][j] == 1) {
 						stack.push(1);
 					}else {
-						stack.clear();
-					}
+						if(stack.size() == K) {
+							y++;
+							stack.clear();
+						}else {
+							stack.clear();							
+						}
 					
+					}
 				}
 				if(stack.size() == K) {
 					y++;
 				}
+				stack.clear();
 			}
-			
-			System.out.println(y);
 			
 			int ans = x+y;
 			

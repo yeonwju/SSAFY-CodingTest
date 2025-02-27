@@ -27,15 +27,22 @@ public class Solution {
 			int x = 0;
 			for(int i=0; i<N; i++) {//행 고정
 				for(int j=0; j<N; j++) {
-					if(numbers[i][j] == 1) {
+					if(numbers[i][j] == 1) {//1이면
 						stack.push(1);
-					}else {
-						stack.clear();
+					}else {//0이면
+						if(stack.size() == K) {
+							x++;
+							stack.clear();
+						}else {
+							stack.clear();							
+						}
 					}
+					
+				}
 				if(stack.size() == K) {
 					x++;
-					}
 				}
+				stack.clear();
 			}
 			
 			//세로줄
@@ -45,12 +52,19 @@ public class Solution {
 					if(numbers[i][j] == 1) {
 						stack.push(1);
 					}else {
-						stack.clear();
-					}
-					if(stack.size() == K) {
-						y++;
+						if(stack.size() == K) {
+							y++;
+							stack.clear();
+						}else {
+							stack.clear();							
+						}
+					
 					}
 				}
+				if(stack.size() == K) {
+					y++;
+				}
+				stack.clear();
 			}
 			
 			int ans = x+y;
