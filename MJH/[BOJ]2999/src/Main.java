@@ -12,12 +12,12 @@ public class Main {
 		
 		// 약수중 가장 정사각형에 가까운 값 구하기
 		int l = line.length();
-		int C = 1;
+		int R = 1;
 		for(int i = 1 ; i*i <= l ; i++) {
 			if(l % i ==0)
-				C = i;
+				R = i;
 		}
-		int R = l / C;
+		int C = l / R;
 		String[][] msg = new String[R][C];
 		
 		// 입력받은 것 암호 배열에 넣기
@@ -27,6 +27,7 @@ public class Main {
 				msg[row][col] = String.valueOf(line.charAt(idx++));
 			}
 		}
+		
 		// 해독하기
 		StringBuilder sb = new StringBuilder();
 		for(int row = 0 ; row < R ; row ++) {
