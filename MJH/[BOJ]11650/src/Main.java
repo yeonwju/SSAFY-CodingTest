@@ -17,7 +17,7 @@ public class Main {
 			}
 
 			@Override
-			public int compareTo(XY o) {
+			public int compareTo(XY o) {			
 				if (this.x != o.x)
 					return this.x - o.x;
 				else

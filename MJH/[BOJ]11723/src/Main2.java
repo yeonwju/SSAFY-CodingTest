@@ -46,7 +46,7 @@ public class Main2 {
 					result |= num;
 				break;
 			case "all":
-				result = (1 << 21) - 2;
+				result = (1 << 20) - 1;
 				break;
 			case "empty":
 				result = 0;
