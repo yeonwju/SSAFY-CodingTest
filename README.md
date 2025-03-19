@@ -120,4 +120,11 @@ git에서 다운받았을 때 project가 안보인다면
 21. [[250313][백준_10816][숫자 카드2]](https://www.acmicpc.net/problem/10816)
 22. [[250313][백준_11650][좌표 정렬하기]](https://www.acmicpc.net/problem/11650)
 23. [[250313][백준_11723][집합]](https://www.acmicpc.net/problem/11723)
+24. [[250319][백준_15649][N과M1번]](https://www.acmicpc.net/problem/15649)
+25. [[250319][백준_1182][부분수열의 합]](https://www.acmicpc.net/problem/1182)
+26. [[250319][백준_10872][팩토리얼 - 연습문제]](https://www.acmicpc.net/problem/10872)
+27. [[250319][백준_10870][피보나치 수 5 - 연습문제]](https://www.acmicpc.net/problem/10870)
+28. [[250319][백준_17478][재귀함수가 뭔가요?]](https://www.acmicpc.net/problem/17478)
+29. [[250319][백준_1463][1로 만들기]](https://www.acmicpc.net/problem/1463)
+30. 
 
