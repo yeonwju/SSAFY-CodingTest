@@ -40,12 +40,12 @@ public class Baekjoon17478 {
 			for (int j = 0; j < depth * 4; j++) { // 현재 깊이*4 만큼 '_' 저장
 				sb.append("_");
 			}
-			sb.append(arr[i]).append("\n"); // 5번 멘트 저장
+			sb.append(arr[i]).append("\n"); // 1, 5번 멘트 저장
 			}
 			return;
 		}
 
-		for (int i = 1; i <= 4; i++) { // 깊이가 n에 도달했을때 1~4번 멘트 저장
+		for (int i = 1; i <= 4; i++) { // 깊이가 n에 도달하기 전까지 1~4번 멘트 저장
 			for (int j = 0; j < depth * 4; j++) { // 현재 깊이*4 만큼 '_' 저장
 				sb.append("_");
 			}
