@@ -114,3 +114,17 @@ git에서 다운받았을 때 project가 안보인다면
 15. [[250225][SWEA_11315][D3][오목판정]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE&problemTitle=%EC%98%A4%EB%AA%A9+%ED%8C%90%EC%A0%95&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 16. [[250227][SWEA_1979][D2][어디에_단어가_들어갈_수_있을까?]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq&categoryId=AV5PuPq6AaQDFAUq&categoryType=CODE&problemTitle=1979&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 17. [[250227][SWEA_1289][D3][원재의_메모리_복구하기]](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN&categoryId=AV19AcoKI9sCFAZN&categoryType=CODE&problemTitle=1289&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+18. [[250306][백준_2999][비밀이메일]](https://www.acmicpc.net/problem/2999)
+19. [[250306][백준_3985][롤케이크]](https://www.acmicpc.net/problem/3985)
+20. [[250313][백준_2164][카드2]](https://www.acmicpc.net/problem/2164)
+21. [[250313][백준_10816][숫자 카드2]](https://www.acmicpc.net/problem/10816)
+22. [[250313][백준_11650][좌표 정렬하기]](https://www.acmicpc.net/problem/11650)
+23. [[250313][백준_11723][집합]](https://www.acmicpc.net/problem/11723)
+24. [[250319][백준_15649][N과M1번]](https://www.acmicpc.net/problem/15649)
+25. [[250319][백준_1182][부분수열의 합]](https://www.acmicpc.net/problem/1182)
+26. [[250319][백준_10872][팩토리얼 - 연습문제]](https://www.acmicpc.net/problem/10872)
+27. [[250319][백준_10870][피보나치 수 5 - 연습문제]](https://www.acmicpc.net/problem/10870)
+28. [[250319][백준_17478][재귀함수가 뭔가요?]](https://www.acmicpc.net/problem/17478)
+29. [[250319][백준_1463][1로 만들기]](https://www.acmicpc.net/problem/1463)
+30. 
+
