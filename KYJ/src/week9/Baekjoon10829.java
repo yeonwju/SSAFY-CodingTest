@@ -27,7 +27,7 @@ public class Baekjoon10829 {
 	
 	static void nums(long n) {
 		
-		if(share < 2) { //남은 목이 2 미만일 경우 더이상 변환할 수 없으므로 몫 stack에 저장
+		if(share < 2) { //남은 몫이 2 미만일 경우 더이상 변환할 수 없으므로 몫 stack에 저장
 			stack.add(share);
 			return; //종료
 		}
