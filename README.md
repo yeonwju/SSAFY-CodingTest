@@ -133,6 +133,8 @@ git에서 다운받았을 때 project가 안보인다면
 34. [[250327][백준_3986][좋은 단어]](https://www.acmicpc.net/problem/3986)
 35. [[250401][백준_0][유기농배추]](https://www.acmicpc.net/problem/0)
 36. [[250403][백준_4386][별자리]](https://www.acmicpc.net/problem/4386)
-37. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
-38. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
-
+37. [[250403][백준_20920][영어단어암기는어려워]](https://www.acmicpc.net/problem/20920)
+38. [[250403][백준_2667][단지번호붙이기]](https://www.acmicpc.net/problem/2667)
+39. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
+40. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
+41. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
