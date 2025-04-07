@@ -139,7 +139,7 @@ git에서 다운받았을 때 project가 안보인다면
 40. [[250408][백준_1929][소수구하기]](https://www.acmicpc.net/problem/1929)
 41. [[250408][백준_2960][에라토스테네스의 체]](https://www.acmicpc.net/problem/2960)
 42. [[250408][백준_1016][제곱ㄴㄴ수]](https://www.acmicpc.net/problem/1016)
-43. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
+43. [[250408][백준_2468][안전 영역]](https://www.acmicpc.net/problem/2468)
 44. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
 45. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
 46. [[25][백준_0][0]](https://www.acmicpc.net/problem/0)
