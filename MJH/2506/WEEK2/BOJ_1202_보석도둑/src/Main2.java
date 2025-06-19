@@ -48,7 +48,7 @@ public class Main2 {
         int j = 0;
 
         for (int i = 0; i < K; i++) {
-            // 현재 가방에 들어갈 수 있는 모든 보석을 pq에 넣음
+            // 현재 가방에 들어갈 수 있는 후보 보석을 pq에 넣음
             for (; j < N && stuff[j].w <= bags[i]; j++) {
                 pq.offer(stuff[j].v);
             }
