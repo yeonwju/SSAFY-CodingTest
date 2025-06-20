@@ -141,7 +141,7 @@ git에서 다운받았을 때 project가 안보인다면
 42. [[250408][백준_1016][제곱ㄴㄴ수]](https://www.acmicpc.net/problem/1016)
 43. [[250408][백준_2468][안전 영역]](https://www.acmicpc.net/problem/2468)
 44. [[250613][백준_15903][카드합체놀이]](https://www.acmicpc.net/problem/15903)
-45. [[250613][백준_1541][잃어버린 괄호](https://www.acmicpc.net/problem/1541)
+45. [[250613][백준_1541][잃어버린 괄호]](https://www.acmicpc.net/problem/1541)
 46. [[250613][백준_1946][신입 사원]](https://www.acmicpc.net/problem/1946)
 47. [[250613][백준_2178][미로 탐색]](https://www.acmicpc.net/problem/2178)
 48. [[250616][백준_12865][평범한 배낭]](https://www.acmicpc.net/problem/12865)
