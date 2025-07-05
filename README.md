@@ -1,8 +1,8 @@
 ## 🐣 **멤버**
 
-|<img src="asset/squrtle.webp" alt="김윤정" width="50" height="50">|<img src="asset/meowth.webp" alt="김현재" width="50" height="50">|<img src="asset/psyduck.webp" alt="문준호" width="50" height="50">|<img src="asset/bu.webp" alt="주연우" width="50" height="50">|
-|---|---|---|---|
-|김윤정|김현재|문준호|주연우|
+|<img src="asset/squrtle.webp" alt="김윤정" width="50" height="50">|<img src="asset/meowth.webp" alt="김현재" width="50" height="50">|<img src="asset/psyduck.webp" alt="문준호" width="50" height="50">|<img src="asset/bu.webp" alt="주연우" width="50" height="50">|<img src="asset/baroping.webp" alt="이재빈" width="50" height="50">|
+|---|---|---|---|---|
+|김윤정|김현재|문준호|주연우|이재빈|
 ## 📌 **규칙**
 - 화, 목 9시 30분
 
